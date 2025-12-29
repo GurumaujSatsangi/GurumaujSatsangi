@@ -12,5 +12,8 @@ Hello 👋 I am Gurumauj Satsangi, an aspiring Computer Science Engineer with a 
 
 <h1></h1>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurumaujSatsangi&layout=compact)
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurumaujSatsangi&show_icons=true&theme=radical)
 
