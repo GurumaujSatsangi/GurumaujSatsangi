@@ -12,8 +12,7 @@ Hello 👋 I am Gurumauj Satsangi, an aspiring Computer Science Engineer with a 
 
 <h1></h1>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurumaujSatsangi&layout=compact)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things&font=Fira%20Code¢er=true&width=380&height=50)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurumaujSatsangi&show_icons=true&theme=radical)
 
