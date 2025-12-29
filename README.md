@@ -12,7 +12,6 @@ Hello 👋 I am Gurumauj Satsangi, an aspiring Computer Science Engineer with a 
 
 <h1></h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things&font=Fira%20Code¢er=true&width=380&height=50)
-
+![Metrics](https://metrics.lecoq.io/GurumaujSatsangi?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 
