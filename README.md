@@ -5,13 +5,15 @@ Hello 👋 I am Gurumauj Satsangi, an aspiring Computer Science Engineer with a 
 <h1>Tech Stack:</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,html,mongodb,supabase,express" />
+    <img src="https://skillicons.dev/icons?i=nodejs,html,mongodb,supabase,express,aws,azure,bootstrap" />
   </a>
 </p>
           
 
 <h1></h1>
 
-![Metrics](https://metrics.lecoq.io/GurumaujSatsangi?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+![wave_animation_dark](https://github.com/user-attachments/assets/ae67ab6c-ec4f-418c-81be-8465c922e963)<svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 20 150 30">
+
+
 
 
