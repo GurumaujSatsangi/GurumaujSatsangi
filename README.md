@@ -19,11 +19,11 @@ Hello 👋 I am Gurumauj Satsangi, an aspiring Computer Science Engineer with a 
   <tr>
     <td>  
       
-  [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=GurumaujSatsangi&show_icons=true&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast) 
+  ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=GurumaujSatsangi&show_icons=true&theme=transparent)
 </td>
 <td>
     
-  [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=GurumaujSatsangi&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
+  ![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=GurumaujSatsangi&theme=transparent)
 
 </td>
   </tr>
