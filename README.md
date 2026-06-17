@@ -1,40 +1,25 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Gurumauj
+=================================================================================================================================
 
+I'm a CS undergrad at VIT specializing in full-stack development, cloud infrastructure, and AI integration. I focus on building tools that solve actual problems.
 
-<h1>About Me: </h1>
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [gurumaujsatsangi.in](http://www.gurumaujsatsangi.in/)
+* ✉️  You can contact me at [gurumaujsatsangi@gmail.com](mailto:gurumaujsatsangi@gmail.com)
 
-Hello 👋 I am Gurumauj Satsangi, an aspiring Computer Science Engineer with a passion for full-stack web development. Currently pursuing a B.Tech in CSE (Core) at Vellore Institute of Technology (VIT). Eager to apply problem-solving skills and technical expertise to real-world projects. Actively seeking opportunities to grow as a developer and contribute to innovative teams.
-
-<h1>Tech Stack:</h1>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,html,mongodb,supabase,express,aws,azure,bootstrap" />
-  </a>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a>
 </p>
-          
 
-<h1></h1>
+### Socials
 
-<p align="center">
-<table>
-  <tr>
-    <td>  
-      
-  ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=GurumaujSatsangi&show_icons=true&theme=transparent)
-</td>
-<td>
-    
-  ![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=GurumaujSatsangi&theme=transparent)
+<p align="left"> <a href="https://www.github.com/GurumaujSatsangi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/gurumauj-satsangi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Badges
 
-</td>
-  </tr>
+<b>My GitHub Stats</b>
 
-</table>
- 
-  
-  </p>
+<a href="http://www.github.com/GurumaujSatsangi"><img src="https://github-readme-stats.vercel.app/api?username=GurumaujSatsangi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GurumaujSatsangi's GitHub stats" /></a>
 
-![wave_animation_dark](https://github.com/user-attachments/assets/ae67ab6c-ec4f-418c-81be-8465c922e963)<svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 20 150 30">
+<a href="http://www.github.com/GurumaujSatsangi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GurumaujSatsangi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
-
-
+<a href="https://github.com/GurumaujSatsangi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurumaujSatsangi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
